@@ -3,3 +3,4 @@
 why i reset but the infomation didn't reset
 may be i haven't add the --hard option
 work
+and then i have link it on github
