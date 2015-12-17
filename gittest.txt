@@ -2,3 +2,4 @@
  and second i add a new line
 why i reset but the infomation didn't reset
 may be i haven't add the --hard option
+work
