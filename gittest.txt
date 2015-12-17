@@ -1,2 +1,4 @@
  i am learning git version control
+ and second i add a new line
+why i reset but the infomation didn't reset
 
